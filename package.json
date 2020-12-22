@@ -1,0 +1,15 @@
+{
+  "name": "mlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/setup.js",
+    "setup": "node ./src/setup.js"
+  },
+  "author": "Misael",
+  "license": "ISC",
+  "dependencies": {
+    "nodeplotlib": "^0.6.5"
+  }
+}
